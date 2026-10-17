@@ -1,0 +1,10 @@
+"category","weather_group","failure_count","failures_per_100_entries"
+"aero","dry_or_mixed",3,3.5
+"brakes","dry_or_mixed",6,7.1
+"brakes","wet",3,9.1
+"electronics","dry_or_mixed",3,3.5
+"electronics","wet",2,6.1
+"engine","dry_or_mixed",6,7.1
+"engine","wet",4,12.1
+"suspension","dry_or_mixed",3,3.5
+"suspension","wet",3,9.1

@@ -1,0 +1,5 @@
+"window_bucket","days_in_bucket","avg_orders_per_day"
+"0-2 days after a win",75,34.2
+"3-7 days after a win",125,19.6
+"8+ days after a win",777,11.7
+"before any win",117,8.5
